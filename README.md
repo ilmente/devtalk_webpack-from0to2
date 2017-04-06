@@ -19,7 +19,8 @@ Entreremo a gamba tesa nel merito di questo diffuso quanto controverso strumento
 
 Here the devtalk slides used at [MilanoJS](https://milanojs.com/) on 04.04.2017:
 
-[enjoy the wizardry](https://github.com/ilmente/devtalk_webpack-from0to2/blob/master/webpack_from-0-to-2.pdf)
+- [download the PDF](https://github.com/ilmente/devtalk_webpack-from0to2/blob/master/webpack_from-0-to-2.pdf)
+- [view on slideshare](https://www.slideshare.net/AlessandroBellini3/webpack-from-0-to-2)
 
 # Examples
 
