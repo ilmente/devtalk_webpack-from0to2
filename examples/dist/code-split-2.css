@@ -1,0 +1,15 @@
+.a-component-A__link {
+  color: red;
+}
+
+.a-component-A--big {
+  width: 200%;
+}
+
+.a-component-B__item {
+  background-color: red;
+}
+
+.a-component-B--small {
+  width: 20%;
+}

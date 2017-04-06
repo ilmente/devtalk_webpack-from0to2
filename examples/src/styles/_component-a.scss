@@ -1,0 +1,9 @@
+.a-component-A {
+    &__link {
+        color: $someImportantColor;
+    }
+
+    &--big {
+        width: 200%;
+    }
+}

@@ -1,0 +1,9 @@
+.a-component-B {
+    &__item {
+        background-color: $someImportantColor;
+    }
+
+    &--small {
+        width: 20%;
+    }
+}
