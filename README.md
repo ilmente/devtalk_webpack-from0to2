@@ -17,8 +17,9 @@ Entreremo a gamba tesa nel merito di questo diffuso quanto controverso strumento
 
 # Slides
 
-Here the devtalk slides used at [MilanoJS](https://milanojs.com/):
-[enjoy the wizardry](./)
+Here the devtalk slides used at [MilanoJS](https://milanojs.com/) on 04.04.2017:
+
+[enjoy the wizardry](https://github.com/ilmente/devtalk_webpack-from0to2/blob/master/webpack_from-0-to-2.pdf)
 
 # Examples
 
@@ -33,4 +34,4 @@ $ npm run build ts # run tree shake example
 ```
 
 Then take a look at the code in `./dist` folder.
-Yes, that's it. I'm a built code voyeur... but it's where I find most of the answers!
+Yes, that's it. I'm a *built code voyeur*... but it's where I find most of the answers!
